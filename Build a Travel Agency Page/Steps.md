@@ -15,3 +15,7 @@ Add an `h1` element with the text of your travel agency. Below the `h1` element,
 ## Step 4
 
 Below the `p` element, add a `div` container element for your list of packages. Add an `h2` element with the text `Packages` and a `p` element introducing briefly the various packages. Add an `unordered list` element with two list items named "Group Travels" and "Private Tours", respectively. The text of each list item should be enclosed by an `anchor` element.
+
+## Step 5
+
+Add at least three `figure` elements, each containing an `anchor` element and a `figcaption` element that describes the figure's image. The three anchor elements should have an `img` element with an appropriate `alt`attribute and a`src` attribute set to a valid image as their content.
